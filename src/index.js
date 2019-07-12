@@ -1,6 +1,5 @@
 import React from "react";
 import ReactDOM from "react-dom";
-// import App from "./App";
-import Mares from "./App2";
+import App from "./App";
 
-ReactDOM.render(<Mares />, document.getElementById("root"));
+ReactDOM.render(<App />, document.getElementById("root"));
